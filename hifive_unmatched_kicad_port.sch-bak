@@ -22,7 +22,7 @@ $EndSheet
 $Sheet
 S 24200 2850 1750 600 
 U 61454C87
-F0 "fu740_dd4" 50
+F0 "fu740_ddr4" 50
 F1 "fu740_ddr4.sch" 50
 $EndSheet
 $Sheet

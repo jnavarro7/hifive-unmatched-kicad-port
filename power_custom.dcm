@@ -15,4 +15,14 @@ D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP
 #
+$CMP VDD_PLL
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_PLL_1V8
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
 #End Doc Library
