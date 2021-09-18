@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name sifive)(type Legacy)(uri ${KIPRJMOD}/sifive.lib)(options "")(descr ""))
   (lib (name power_custom)(type Legacy)(uri ${KIPRJMOD}/power_custom.lib)(options "")(descr ""))
+  (lib (name hynix)(type Legacy)(uri ${KIPRJMOD}/lib/hynix.lib)(options "")(descr ""))
 )

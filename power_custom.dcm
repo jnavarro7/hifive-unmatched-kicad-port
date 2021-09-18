@@ -10,7 +10,22 @@ D Power symbol creates a global label with name "VDD_0V9"
 K power-flag
 $ENDCMP
 #
+$CMP VDD_1V8
+D Power symbol creates a global label with name "VDD_0V9"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_3V3
+D Power symbol creates a global label with name "VDD_0V9"
+K power-flag
+$ENDCMP
+#
 $CMP VDD_CPU
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_DDR_MEM
 D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP

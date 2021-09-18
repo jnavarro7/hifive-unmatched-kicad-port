@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
-Sheet 1 6
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -42,5 +42,11 @@ S 24200 5400 1750 600
 U 614C64CE
 F0 "fu740_power" 50
 F1 "fu740_power.sch" 50
+$EndSheet
+$Sheet
+S 24200 6300 1750 650 
+U 6145B860
+F0 "ddr4x8_32bit" 50
+F1 "ddr4x8_32bit_.sch" 50
 $EndSheet
 $EndSCHEMATC
