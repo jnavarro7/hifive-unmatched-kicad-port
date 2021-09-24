@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DDR_VREF
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
 $CMP VDDX_12V0
 D Power symbol creates a global label with name "VDD_0V9"
 K power-flag
@@ -26,6 +31,11 @@ K power-flag
 $ENDCMP
 #
 $CMP VDD_DDR_MEM
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_DDR_VPP
 D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP
