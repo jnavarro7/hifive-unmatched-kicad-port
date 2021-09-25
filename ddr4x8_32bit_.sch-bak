@@ -636,22 +636,6 @@ Connection ~ 7700 5100
 Wire Wire Line
 	7700 5100 7700 5250
 Wire Wire Line
-	5100 3150 5750 3150
-Wire Wire Line
-	5100 3250 5750 3250
-Wire Wire Line
-	5100 3350 5750 3350
-Wire Wire Line
-	5100 3450 5750 3450
-Wire Wire Line
-	5100 3550 5750 3550
-Wire Wire Line
-	5100 3650 5750 3650
-Wire Wire Line
-	5100 3750 5750 3750
-Wire Wire Line
-	5100 3850 5750 3850
-Wire Wire Line
 	5100 3950 5750 3950
 Wire Wire Line
 	5100 4050 5750 4050
@@ -713,34 +697,6 @@ Wire Wire Line
 	3700 3450 3000 3450
 Wire Wire Line
 	3700 3550 3000 3550
-Wire Wire Line
-	3700 3650 3000 3650
-Wire Wire Line
-	3700 3750 3000 3750
-Wire Wire Line
-	3700 3850 3000 3850
-Wire Wire Line
-	3700 3950 3000 3950
-Wire Wire Line
-	3700 4050 3000 4050
-Wire Wire Line
-	3700 4150 3000 4150
-Wire Wire Line
-	3700 4250 3000 4250
-Wire Wire Line
-	3700 4350 3000 4350
-Wire Wire Line
-	3700 4450 3000 4450
-Wire Wire Line
-	3700 4550 3000 4550
-Wire Wire Line
-	3700 4650 3000 4650
-Wire Wire Line
-	3700 4750 3000 4750
-Wire Wire Line
-	3700 4850 3000 4850
-Wire Wire Line
-	3700 4950 3000 4950
 Wire Wire Line
 	3700 5050 3000 5050
 Wire Wire Line
@@ -1394,22 +1350,6 @@ Connection ~ 21450 5000
 Wire Wire Line
 	21450 5000 21450 5150
 Wire Wire Line
-	18850 3050 19500 3050
-Wire Wire Line
-	18850 3150 19500 3150
-Wire Wire Line
-	18850 3250 19500 3250
-Wire Wire Line
-	18850 3350 19500 3350
-Wire Wire Line
-	18850 3450 19500 3450
-Wire Wire Line
-	18850 3550 19500 3550
-Wire Wire Line
-	18850 3650 19500 3650
-Wire Wire Line
-	18850 3750 19500 3750
-Wire Wire Line
 	18850 3850 19500 3850
 Wire Wire Line
 	18850 3950 19500 3950
@@ -1433,36 +1373,6 @@ Entry Wire Line
 	19750 3650 19850 3550
 Entry Wire Line
 	19750 3750 19850 3650
-Entry Wire Line
-	16200 3450 16300 3550
-Entry Wire Line
-	16200 3550 16300 3650
-Entry Wire Line
-	16200 3650 16300 3750
-Entry Wire Line
-	16200 3750 16300 3850
-Entry Wire Line
-	16200 3850 16300 3950
-Entry Wire Line
-	16200 3950 16300 4050
-Entry Wire Line
-	16200 4050 16300 4150
-Entry Wire Line
-	16200 4350 16300 4450
-Entry Wire Line
-	16200 4250 16300 4350
-Entry Wire Line
-	16200 4150 16300 4250
-Entry Wire Line
-	16200 4450 16300 4550
-Entry Wire Line
-	16200 4550 16300 4650
-Entry Wire Line
-	16200 4650 16300 4750
-Entry Wire Line
-	16200 4750 16300 4850
-Wire Bus Line
-	16200 3350 15600 3350
 Wire Wire Line
 	17450 3050 16750 3050
 Wire Wire Line
@@ -1471,34 +1381,6 @@ Wire Wire Line
 	17450 3350 16750 3350
 Wire Wire Line
 	17450 3450 16750 3450
-Wire Wire Line
-	17450 3550 16750 3550
-Wire Wire Line
-	17450 3650 16750 3650
-Wire Wire Line
-	17450 3750 16750 3750
-Wire Wire Line
-	17450 3850 16750 3850
-Wire Wire Line
-	17450 3950 16750 3950
-Wire Wire Line
-	17450 4050 16750 4050
-Wire Wire Line
-	17450 4150 16750 4150
-Wire Wire Line
-	17450 4250 16750 4250
-Wire Wire Line
-	17450 4350 16750 4350
-Wire Wire Line
-	17450 4450 16750 4450
-Wire Wire Line
-	17450 4550 16750 4550
-Wire Wire Line
-	17450 4650 16750 4650
-Wire Wire Line
-	17450 4750 16750 4750
-Wire Wire Line
-	17450 4850 16750 4850
 Wire Wire Line
 	17450 4950 16750 4950
 Wire Wire Line
@@ -2152,22 +2034,6 @@ Connection ~ 21750 12400
 Wire Wire Line
 	21750 12400 21750 12550
 Wire Wire Line
-	19150 10450 19800 10450
-Wire Wire Line
-	19150 10550 19800 10550
-Wire Wire Line
-	19150 10650 19800 10650
-Wire Wire Line
-	19150 10750 19800 10750
-Wire Wire Line
-	19150 10850 19800 10850
-Wire Wire Line
-	19150 10950 19800 10950
-Wire Wire Line
-	19150 11050 19800 11050
-Wire Wire Line
-	19150 11150 19800 11150
-Wire Wire Line
 	19150 11250 19800 11250
 Wire Wire Line
 	19150 11350 19800 11350
@@ -2191,36 +2057,6 @@ Entry Wire Line
 	20050 11050 20150 10950
 Entry Wire Line
 	20050 11150 20150 11050
-Entry Wire Line
-	16500 10850 16600 10950
-Entry Wire Line
-	16500 10950 16600 11050
-Entry Wire Line
-	16500 11050 16600 11150
-Entry Wire Line
-	16500 11150 16600 11250
-Entry Wire Line
-	16500 11250 16600 11350
-Entry Wire Line
-	16500 11350 16600 11450
-Entry Wire Line
-	16500 11450 16600 11550
-Entry Wire Line
-	16500 11750 16600 11850
-Entry Wire Line
-	16500 11650 16600 11750
-Entry Wire Line
-	16500 11550 16600 11650
-Entry Wire Line
-	16500 11850 16600 11950
-Entry Wire Line
-	16500 11950 16600 12050
-Entry Wire Line
-	16500 12050 16600 12150
-Entry Wire Line
-	16500 12150 16600 12250
-Wire Bus Line
-	16500 10750 15900 10750
 Wire Wire Line
 	17750 10450 17050 10450
 Wire Wire Line
@@ -2229,34 +2065,6 @@ Wire Wire Line
 	17750 10750 17050 10750
 Wire Wire Line
 	17750 10850 17050 10850
-Wire Wire Line
-	17750 10950 17050 10950
-Wire Wire Line
-	17750 11050 17050 11050
-Wire Wire Line
-	17750 11150 17050 11150
-Wire Wire Line
-	17750 11250 17050 11250
-Wire Wire Line
-	17750 11350 17050 11350
-Wire Wire Line
-	17750 11450 17050 11450
-Wire Wire Line
-	17750 11550 17050 11550
-Wire Wire Line
-	17750 11650 17050 11650
-Wire Wire Line
-	17750 11750 17050 11750
-Wire Wire Line
-	17750 11850 17050 11850
-Wire Wire Line
-	17750 11950 17050 11950
-Wire Wire Line
-	17750 12050 17050 12050
-Wire Wire Line
-	17750 12150 17050 12150
-Wire Wire Line
-	17750 12250 17050 12250
 Wire Wire Line
 	17750 12350 17050 12350
 Wire Wire Line
@@ -2910,22 +2718,6 @@ Connection ~ 7800 12700
 Wire Wire Line
 	7800 12700 7800 12850
 Wire Wire Line
-	5200 10750 5850 10750
-Wire Wire Line
-	5200 10850 5850 10850
-Wire Wire Line
-	5200 10950 5850 10950
-Wire Wire Line
-	5200 11050 5850 11050
-Wire Wire Line
-	5200 11150 5850 11150
-Wire Wire Line
-	5200 11250 5850 11250
-Wire Wire Line
-	5200 11350 5850 11350
-Wire Wire Line
-	5200 11450 5850 11450
-Wire Wire Line
 	5200 11550 5850 11550
 Wire Wire Line
 	5200 11650 5850 11650
@@ -2949,36 +2741,6 @@ Entry Wire Line
 	6100 11350 6200 11250
 Entry Wire Line
 	6100 11450 6200 11350
-Entry Wire Line
-	2550 11150 2650 11250
-Entry Wire Line
-	2550 11250 2650 11350
-Entry Wire Line
-	2550 11350 2650 11450
-Entry Wire Line
-	2550 11450 2650 11550
-Entry Wire Line
-	2550 11550 2650 11650
-Entry Wire Line
-	2550 11650 2650 11750
-Entry Wire Line
-	2550 11750 2650 11850
-Entry Wire Line
-	2550 12050 2650 12150
-Entry Wire Line
-	2550 11950 2650 12050
-Entry Wire Line
-	2550 11850 2650 11950
-Entry Wire Line
-	2550 12150 2650 12250
-Entry Wire Line
-	2550 12250 2650 12350
-Entry Wire Line
-	2550 12350 2650 12450
-Entry Wire Line
-	2550 12450 2650 12550
-Wire Bus Line
-	2550 11050 1950 11050
 Wire Wire Line
 	3800 10750 3100 10750
 Wire Wire Line
@@ -2987,34 +2749,6 @@ Wire Wire Line
 	3800 11050 3100 11050
 Wire Wire Line
 	3800 11150 3100 11150
-Wire Wire Line
-	3800 11250 3100 11250
-Wire Wire Line
-	3800 11350 3100 11350
-Wire Wire Line
-	3800 11450 3100 11450
-Wire Wire Line
-	3800 11550 3100 11550
-Wire Wire Line
-	3800 11650 3100 11650
-Wire Wire Line
-	3800 11750 3100 11750
-Wire Wire Line
-	3800 11850 3100 11850
-Wire Wire Line
-	3800 11950 3100 11950
-Wire Wire Line
-	3800 12050 3100 12050
-Wire Wire Line
-	3800 12150 3100 12150
-Wire Wire Line
-	3800 12250 3100 12250
-Wire Wire Line
-	3800 12350 3100 12350
-Wire Wire Line
-	3800 12450 3100 12450
-Wire Wire Line
-	3800 12550 3100 12550
 Wire Wire Line
 	3800 12650 3100 12650
 Wire Wire Line
@@ -3045,22 +2779,426 @@ Wire Wire Line
 	3800 13950 3100 13950
 Wire Wire Line
 	3800 14050 3100 14050
-Wire Bus Line
-	2550 11050 2550 12450
+Text Notes 9900 1100 0    394  ~ 0
+DDR4 RAM
+Text Label 5150 3150 0    59   ~ 0
+DDR_DQ5
+Text Label 5150 3250 0    59   ~ 0
+DDR_DQ3
+Text Label 5150 3350 0    59   ~ 0
+DDR_DQ2
+Text Label 5150 3450 0    59   ~ 0
+DDR_DQ1
+Text Label 5150 3550 0    59   ~ 0
+DDR_DQ7
+Text Label 5150 3650 0    59   ~ 0
+DDR_DQ0
+Text Label 5150 3750 0    59   ~ 0
+DDR_DQ6
+Text Label 5150 3850 0    59   ~ 0
+DDR_DQ4
+Wire Wire Line
+	5100 3150 6000 3150
+Wire Wire Line
+	5100 3250 6000 3250
+Wire Wire Line
+	5100 3350 6000 3350
+Wire Wire Line
+	5100 3450 6000 3450
+Wire Wire Line
+	5100 3550 6000 3550
+Wire Wire Line
+	5100 3650 6000 3650
+Wire Wire Line
+	5100 3750 6000 3750
+Wire Wire Line
+	5100 3850 6000 3850
+Text Label 5150 3950 0    59   ~ 0
+DDR_DQS0_P
+Text Label 5150 4050 0    59   ~ 0
+DDR_DQS0_N
+Text Label 5150 4150 0    59   ~ 0
+DDR_DM0
+Text GLabel 5750 3950 2    59   BiDi ~ 0
+DDR_DQS0_P
+Text GLabel 5750 4050 2    59   BiDi ~ 0
+DDR_DQS0_N
+Text GLabel 5750 4150 2    59   BiDi ~ 0
+DDR_DM0
+Text GLabel 6500 2950 2    59   BiDi ~ 0
+DDR_DQ[7..0]
+Text Label 3450 3650 2    59   ~ 0
+DDR_A13
+Text Label 3050 3750 0    59   ~ 0
+DDR_A12
+Text Label 3050 3850 0    59   ~ 0
+DDR_A11
+Text Label 3050 3950 0    59   ~ 0
+DDR_A10
+Text Label 3050 4050 0    59   ~ 0
+DDR_A9
+Text Label 3050 4150 0    59   ~ 0
+DDR_A8
+Text Label 3050 4250 0    59   ~ 0
+DDR_A7
+Text Label 3050 4350 0    59   ~ 0
+DDR_A6
+Text Label 3050 4450 0    59   ~ 0
+DDR_A5
+Text Label 3050 4550 0    59   ~ 0
+DDR_A4
+Text Label 3050 4650 0    59   ~ 0
+DDR_A3
+Text Label 3050 4750 0    59   ~ 0
+DDR_A2
+Text Label 3050 4850 0    59   ~ 0
+DDR_A1
+Text Label 3050 4950 0    59   ~ 0
+DDR_A0
+Wire Wire Line
+	3800 11250 3100 11250
+Wire Wire Line
+	3800 11350 3100 11350
+Wire Wire Line
+	3800 11450 3100 11450
+Wire Wire Line
+	3800 11550 3100 11550
+Wire Wire Line
+	3800 11650 3100 11650
+Wire Wire Line
+	3800 11750 3100 11750
+Wire Wire Line
+	3800 11850 3100 11850
+Wire Wire Line
+	3800 11950 3100 11950
+Wire Wire Line
+	3800 12050 3100 12050
+Wire Wire Line
+	3800 12150 3100 12150
+Wire Wire Line
+	3800 12250 3100 12250
+Wire Wire Line
+	3800 12350 3100 12350
+Wire Wire Line
+	3800 12450 3100 12450
+Wire Wire Line
+	3800 12550 3100 12550
+Text Label 3550 11250 2    59   ~ 0
+DDR_A13
+Text Label 3150 11350 0    59   ~ 0
+DDR_A12
+Text Label 3150 11450 0    59   ~ 0
+DDR_A11
+Text Label 3150 11550 0    59   ~ 0
+DDR_A10
+Text Label 3150 11650 0    59   ~ 0
+DDR_A9
+Text Label 3150 11750 0    59   ~ 0
+DDR_A8
+Text Label 3150 11850 0    59   ~ 0
+DDR_A7
+Text Label 3150 11950 0    59   ~ 0
+DDR_A6
+Text Label 3150 12050 0    59   ~ 0
+DDR_A5
+Text Label 3150 12150 0    59   ~ 0
+DDR_A4
+Text Label 3150 12250 0    59   ~ 0
+DDR_A3
+Text Label 3150 12350 0    59   ~ 0
+DDR_A2
+Text Label 3150 12450 0    59   ~ 0
+DDR_A1
+Text Label 3150 12550 0    59   ~ 0
+DDR_A0
+Wire Wire Line
+	17750 10950 17050 10950
+Wire Wire Line
+	17750 11050 17050 11050
+Wire Wire Line
+	17750 11150 17050 11150
+Wire Wire Line
+	17750 11250 17050 11250
+Wire Wire Line
+	17750 11350 17050 11350
+Wire Wire Line
+	17750 11450 17050 11450
+Wire Wire Line
+	17750 11550 17050 11550
+Wire Wire Line
+	17750 11650 17050 11650
+Wire Wire Line
+	17750 11750 17050 11750
+Wire Wire Line
+	17750 11850 17050 11850
+Wire Wire Line
+	17750 11950 17050 11950
+Wire Wire Line
+	17750 12050 17050 12050
+Wire Wire Line
+	17750 12150 17050 12150
+Wire Wire Line
+	17750 12250 17050 12250
+Text Label 17500 10950 2    59   ~ 0
+DDR_A13
+Text Label 17100 11050 0    59   ~ 0
+DDR_A12
+Text Label 17100 11150 0    59   ~ 0
+DDR_A11
+Text Label 17100 11250 0    59   ~ 0
+DDR_A10
+Text Label 17100 11350 0    59   ~ 0
+DDR_A9
+Text Label 17100 11450 0    59   ~ 0
+DDR_A8
+Text Label 17100 11550 0    59   ~ 0
+DDR_A7
+Text Label 17100 11650 0    59   ~ 0
+DDR_A6
+Text Label 17100 11750 0    59   ~ 0
+DDR_A5
+Text Label 17100 11850 0    59   ~ 0
+DDR_A4
+Text Label 17100 11950 0    59   ~ 0
+DDR_A3
+Text Label 17100 12050 0    59   ~ 0
+DDR_A2
+Text Label 17100 12150 0    59   ~ 0
+DDR_A1
+Text Label 17100 12250 0    59   ~ 0
+DDR_A0
+Wire Wire Line
+	17450 3550 16750 3550
+Wire Wire Line
+	17450 3650 16750 3650
+Wire Wire Line
+	17450 3750 16750 3750
+Wire Wire Line
+	17450 3850 16750 3850
+Wire Wire Line
+	17450 3950 16750 3950
+Wire Wire Line
+	17450 4050 16750 4050
+Wire Wire Line
+	17450 4150 16750 4150
+Wire Wire Line
+	17450 4250 16750 4250
+Wire Wire Line
+	17450 4350 16750 4350
+Wire Wire Line
+	17450 4450 16750 4450
+Wire Wire Line
+	17450 4550 16750 4550
+Wire Wire Line
+	17450 4650 16750 4650
+Wire Wire Line
+	17450 4750 16750 4750
+Wire Wire Line
+	17450 4850 16750 4850
+Text Label 17200 3550 2    59   ~ 0
+DDR_A13
+Text Label 16800 3650 0    59   ~ 0
+DDR_A12
+Text Label 16800 3750 0    59   ~ 0
+DDR_A11
+Text Label 16800 3850 0    59   ~ 0
+DDR_A10
+Text Label 16800 3950 0    59   ~ 0
+DDR_A9
+Text Label 16800 4050 0    59   ~ 0
+DDR_A8
+Text Label 16800 4150 0    59   ~ 0
+DDR_A7
+Text Label 16800 4250 0    59   ~ 0
+DDR_A6
+Text Label 16800 4350 0    59   ~ 0
+DDR_A5
+Text Label 16800 4450 0    59   ~ 0
+DDR_A4
+Text Label 16800 4550 0    59   ~ 0
+DDR_A3
+Text Label 16800 4650 0    59   ~ 0
+DDR_A2
+Text Label 16800 4750 0    59   ~ 0
+DDR_A1
+Text Label 16800 4850 0    59   ~ 0
+DDR_A0
+Text Label 18900 3050 0    59   ~ 0
+DDR_DQ9
+Text Label 18900 3150 0    59   ~ 0
+DDR_DQ12
+Text Label 18900 3250 0    59   ~ 0
+DDR_DQ10
+Text Label 18900 3350 0    59   ~ 0
+DDR_DQ15
+Text Label 18900 3450 0    59   ~ 0
+DDR_DQ11
+Text Label 18900 3550 0    59   ~ 0
+DDR_DQ13
+Text Label 18900 3650 0    59   ~ 0
+DDR_DQ8
+Text Label 18900 3750 0    59   ~ 0
+DDR_DQ14
+Text Label 18900 3850 0    59   ~ 0
+DDR_DQS1_P
+Text Label 18900 3950 0    59   ~ 0
+DDR_DQSA_N
+Text Label 18900 4050 0    59   ~ 0
+DDR_DM1
+Wire Wire Line
+	18850 3050 19750 3050
+Wire Wire Line
+	18850 3150 19750 3150
+Wire Wire Line
+	18850 3250 19750 3250
+Wire Wire Line
+	18850 3350 19750 3350
+Wire Wire Line
+	18850 3450 19750 3450
+Wire Wire Line
+	18850 3550 19750 3550
+Wire Wire Line
+	18850 3650 19750 3650
+Wire Wire Line
+	18850 3750 19750 3750
+Text GLabel 19500 3850 2    59   BiDi ~ 0
+DDR_DQS1_P
+Text GLabel 19500 3950 2    59   BiDi ~ 0
+DDR_DQS1_N
+Text GLabel 19500 4050 2    59   BiDi ~ 0
+DDR_DM1
+Text GLabel 20250 2850 2    59   BiDi ~ 0
+DDR_DQ[15..8]
+Text Label 19200 10450 0    59   ~ 0
+DDR__DQ30
+Text Label 19200 10550 0    59   ~ 0
+DDR__DQ29
+Text Label 19200 10650 0    59   ~ 0
+DDR__DQ28
+Text Label 19200 10750 0    59   ~ 0
+DDR__DQ27
+Text Label 19200 10850 0    59   ~ 0
+DDR__DQ31
+Text Label 19200 10950 0    59   ~ 0
+DDR__DQ25
+Text Label 19200 11050 0    59   ~ 0
+DDR__DQ26
+Text Label 19200 11150 0    59   ~ 0
+DDR__DQ24
+Text Label 19200 11250 0    59   ~ 0
+DDR__DQS3_P
+Text Label 19200 11350 0    59   ~ 0
+DDR__DQS3_N
+Text Label 19200 11450 0    59   ~ 0
+DDR_DM3
+Wire Wire Line
+	19150 10450 20050 10450
+Wire Wire Line
+	19150 10550 20050 10550
+Wire Wire Line
+	19150 10650 20050 10650
+Wire Wire Line
+	19150 10750 20050 10750
+Wire Wire Line
+	19150 10850 20050 10850
+Wire Wire Line
+	19150 10950 20050 10950
+Wire Wire Line
+	19150 11050 20050 11050
+Wire Wire Line
+	19150 11150 20050 11150
+Text GLabel 19800 11250 2    59   BiDi ~ 0
+DDR_DQS3_P
+Text GLabel 19800 11350 2    59   BiDi ~ 0
+DDR_DQS3_N
+Text GLabel 19800 11450 2    59   BiDi ~ 0
+DDR_DM3
+Text GLabel 20550 10250 2    59   BiDi ~ 0
+DDR_DQ[31..24]
+Text Label 5250 10750 0    59   ~ 0
+DDR_DQ17
+Text Label 5250 10850 0    59   ~ 0
+DDR_DQ22
+Text Label 5250 10950 0    59   ~ 0
+DDR_DQ20
+Text Label 5250 11050 0    59   ~ 0
+DDR_DQ23
+Text Label 5250 11150 0    59   ~ 0
+DDR_DQ18
+Text Label 5250 11250 0    59   ~ 0
+DDR_DQ19
+Text Label 5250 11350 0    59   ~ 0
+DDR_DQ16
+Text Label 5250 11450 0    59   ~ 0
+DDR_DQ21
+Text Label 5250 11550 0    59   ~ 0
+DDR_DQS2_P
+Text Label 5250 11650 0    59   ~ 0
+DDR_DQS2_N
+Text Label 5250 11750 0    59   ~ 0
+DDR_DM2
+Wire Wire Line
+	5200 10750 6100 10750
+Wire Wire Line
+	5200 10850 6100 10850
+Wire Wire Line
+	5200 10950 6100 10950
+Wire Wire Line
+	5200 11050 6100 11050
+Wire Wire Line
+	5200 11150 6100 11150
+Wire Wire Line
+	5200 11250 6100 11250
+Wire Wire Line
+	5200 11350 6100 11350
+Wire Wire Line
+	5200 11450 6100 11450
+Text GLabel 5850 11550 2    59   BiDi ~ 0
+DDR_DQS2_P
+Text GLabel 5850 11650 2    59   BiDi ~ 0
+DDR_DQS2_N
+Text GLabel 5850 11750 2    59   BiDi ~ 0
+DDR_DM2
+Text GLabel 6600 10550 2    59   BiDi ~ 0
+DDR_DQ[23..16]
+Wire Wire Line
+	2550 3650 3700 3650
+Wire Wire Line
+	2550 3750 3700 3750
+Wire Wire Line
+	2550 3850 3700 3850
+Wire Wire Line
+	2550 3950 3700 3950
+Wire Wire Line
+	2550 4050 3700 4050
+Wire Wire Line
+	2550 4150 3700 4150
+Wire Wire Line
+	2550 4250 3700 4250
+Wire Wire Line
+	2550 4350 3700 4350
+Wire Wire Line
+	2550 4450 3700 4450
+Wire Wire Line
+	2550 4550 3700 4550
+Wire Wire Line
+	2550 4650 3700 4650
+Wire Wire Line
+	2550 4750 3700 4750
+Wire Wire Line
+	2550 4850 3700 4850
+Wire Wire Line
+	2550 4950 3700 4950
 Wire Bus Line
 	6200 10550 6200 11350
 Wire Bus Line
-	16500 10750 16500 12150
-Wire Bus Line
 	20150 10250 20150 11050
-Wire Bus Line
-	16200 3350 16200 4750
 Wire Bus Line
 	19850 2850 19850 3650
 Wire Bus Line
-	2450 3450 2450 4850
-Wire Bus Line
 	6100 2950 6100 3750
-Text Notes 9900 1100 0    394  ~ 0
-DDR4 RAM
+Wire Bus Line
+	2450 3450 2450 4850
+Text GLabel 1850 3450 0    59   Input ~ 0
+DDR_A[13..0]
 $EndSCHEMATC

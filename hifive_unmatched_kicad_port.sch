@@ -49,4 +49,6 @@ U 6145B860
 F0 "ddr4x8_32bit" 50
 F1 "ddr4x8_32bit_.sch" 50
 $EndSheet
+Text Notes 7850 1200 0    354  ~ 0
+HiFive Unmatched KiCad Port
 $EndSCHEMATC

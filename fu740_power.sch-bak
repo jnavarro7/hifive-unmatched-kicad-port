@@ -3177,4 +3177,6 @@ F 3 "~" H 10150 4200 50  0001 C CNN
 $EndComp
 Text Notes 10400 1450 0    79   ~ 0
 VDD_CPU Current sensing circuit
+Text Notes 9900 950  0    354  ~ 0
+FU740 Power
 $EndSCHEMATC
