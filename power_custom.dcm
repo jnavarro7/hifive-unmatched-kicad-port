@@ -30,6 +30,16 @@ D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP
 #
+$CMP VDD_DDR
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_DDR_2V5
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
 $CMP VDD_DDR_MEM
 D Power symbol creates a global label with name "VDD"
 K power-flag
