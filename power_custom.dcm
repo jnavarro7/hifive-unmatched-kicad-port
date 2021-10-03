@@ -60,4 +60,9 @@ D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP
 #
+$CMP VTT
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
 #End Doc Library
