@@ -50,6 +50,16 @@ D Power symbol creates a global label with name "VDD"
 K power-flag
 $ENDCMP
 #
+$CMP VDD_PCIEVP
+D Power symbol creates a global label with name "VDD_0V9"
+K power-flag
+$ENDCMP
+#
+$CMP VDD_PCIEVPH
+D Power symbol creates a global label with name "VDD_0V9"
+K power-flag
+$ENDCMP
+#
 $CMP VDD_PLL
 D Power symbol creates a global label with name "VDD"
 K power-flag

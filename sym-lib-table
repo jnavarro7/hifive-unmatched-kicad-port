@@ -2,4 +2,5 @@
   (lib (name sifive)(type Legacy)(uri ${KIPRJMOD}/sifive.lib)(options "")(descr ""))
   (lib (name power_custom)(type Legacy)(uri ${KIPRJMOD}/power_custom.lib)(options "")(descr ""))
   (lib (name hynix)(type Legacy)(uri ${KIPRJMOD}/lib/hynix.lib)(options "")(descr ""))
+  (lib (name hifive_unmatched_kicad_port-rescue)(type Legacy)(uri ${KIPRJMOD}/hifive_unmatched_kicad_port-rescue.lib)(options "")(descr ""))
 )
