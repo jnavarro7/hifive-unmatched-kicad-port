@@ -915,4 +915,149 @@ Wire Wire Line
 	10550 10600 9000 10600
 Wire Wire Line
 	10550 10700 9000 10700
+$Comp
+L Connector:TestPoint TP?
+U 1 1 6174FAD5
+P 9350 10200
+F 0 "TP?" V 9545 10272 50  0000 C CNN
+F 1 "TestPoint" V 9454 10272 50  0000 C CNN
+F 2 "" H 9550 10200 50  0001 C CNN
+F 3 "~" H 9550 10200 50  0001 C CNN
+	1    9350 10200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 61755DE3
+P 9050 10300
+F 0 "TP?" V 9245 10372 50  0000 C CNN
+F 1 "TestPoint" V 9154 10372 50  0000 C CNN
+F 2 "" H 9250 10300 50  0001 C CNN
+F 3 "~" H 9250 10300 50  0001 C CNN
+	1    9050 10300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 6175EBA8
+P 8750 10400
+F 0 "TP?" V 8945 10472 50  0000 C CNN
+F 1 "TestPoint" V 8854 10472 50  0000 C CNN
+F 2 "" H 8950 10400 50  0001 C CNN
+F 3 "~" H 8950 10400 50  0001 C CNN
+	1    8750 10400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10550 10200 9350 10200
+Wire Wire Line
+	10550 10300 9050 10300
+Wire Wire Line
+	10550 10400 8750 10400
+Text Label 13350 8100 0    50   ~ 0
+PCIe_TX0_P
+Text Label 13350 8200 0    50   ~ 0
+PCIe_TX0_N
+Text Label 13350 8350 0    50   ~ 0
+PCIe_TX1_P
+Text Label 13350 8450 0    50   ~ 0
+PCIe_TX1_N
+Text Label 13350 8600 0    50   ~ 0
+PCIe_TX2_P
+Text Label 13350 8700 0    50   ~ 0
+PCIe_TX2_N
+Text Label 13350 8850 0    50   ~ 0
+PCIe_TX3_P
+Text Label 13350 8950 0    50   ~ 0
+PCIe_TX3_N
+Text Label 13350 9100 0    50   ~ 0
+PCIe_TX4_P
+Text Label 13350 9200 0    50   ~ 0
+PCIe_TX4_N
+Text Label 13350 9350 0    50   ~ 0
+PCIe_TX5_P
+Text Label 13350 9450 0    50   ~ 0
+PCIe_TX5_N
+Text Label 13350 9600 0    50   ~ 0
+PCIe_TX6_P
+Text Label 13350 9700 0    50   ~ 0
+PCIe_TX6_N
+Text Label 13350 9850 0    50   ~ 0
+PCIe_TX7_P
+Text Label 13350 9950 0    50   ~ 0
+PCIe_TX7_N
+Text Label 15450 8100 0    50   ~ 0
+PCIeUS_TX0_P
+Text Label 15450 8200 0    50   ~ 0
+PCIeUS_TX0_N
+Text Label 15450 8350 0    50   ~ 0
+PCIeUS_TX1_P
+Text Label 15450 8450 0    50   ~ 0
+PCIeUS_TX1_N
+Text Label 15450 8600 0    50   ~ 0
+PCIeUS_TX2_P
+Text Label 15450 8700 0    50   ~ 0
+PCIeUS_TX2_N
+Text Label 15450 8850 0    50   ~ 0
+PCIeUS_TX3_P
+Text Label 15450 8950 0    50   ~ 0
+PCIeUS_TX3_N
+Text Label 15450 9100 0    50   ~ 0
+PCIeUS_TX4_P
+Text Label 15450 9200 0    50   ~ 0
+PCIeUS_TX4_N
+Text Label 15450 9350 0    50   ~ 0
+PCIeUS_TX5_P
+Text Label 15450 9450 0    50   ~ 0
+PCIeUS_TX5_N
+Text Label 15450 9600 0    50   ~ 0
+PCIeUS_TX6_P
+Text Label 15450 9700 0    50   ~ 0
+PCIeUS_TX6_N
+Text Label 15450 9850 0    50   ~ 0
+PCIeUS_TX7_P
+Text Label 15450 9950 0    50   ~ 0
+PCIeUS_TX7_N
+Text Label 9150 8100 0    50   ~ 0
+PCIeUS_RX0_P
+Text Label 9150 8200 0    50   ~ 0
+PCIeUS_RX0_N
+Text Label 9150 8350 0    50   ~ 0
+PCIeUS_RX1_P
+Text Label 9150 8450 0    50   ~ 0
+PCIeUS_RX1_N
+Text Label 9150 8600 0    50   ~ 0
+PCIeUS_RX2_P
+Text Label 9150 8700 0    50   ~ 0
+PCIeUS_RX2_N
+Text Label 9150 8850 0    50   ~ 0
+PCIeUS_RX3_P
+Text Label 9150 8950 0    50   ~ 0
+PCIeUS_RX3_N
+Text Label 9150 9100 0    50   ~ 0
+PCIeUS_RX4_P
+Text Label 9150 9200 0    50   ~ 0
+PCIeUS_RX4_N
+Text Label 9150 9350 0    50   ~ 0
+PCIeUS_RX5_P
+Text Label 9150 9450 0    50   ~ 0
+PCIeUS_RX5_N
+Text Label 9150 9600 0    50   ~ 0
+PCIeUS_RX6_P
+Text Label 9150 9700 0    50   ~ 0
+PCIeUS_RX6_N
+Text Label 9150 9850 0    50   ~ 0
+PCIeUS_RX7_P
+Text Label 9150 9950 0    50   ~ 0
+PCIeUS_RX7_N
+Text Label 9550 10200 0    50   ~ 0
+PCIe_0_CLKREQN
+Text Label 9550 10300 0    50   ~ 0
+PCIe_0_WAKEN
+Text Label 9550 10400 0    50   ~ 0
+PCIe_0_PERSTN
+Text Label 9150 10600 0    50   ~ 0
+PCIe_REFCLK_P
+Text Label 9150 10700 0    50   ~ 0
+PCIe_REFCLK_N
 $EndSCHEMATC
