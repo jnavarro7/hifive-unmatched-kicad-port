@@ -208,17 +208,6 @@ F 3 "~" H 3350 1900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Ferrite_Bead FB?
-U 1 1 623516AC
-P 17100 1700
-F 0 "FB?" V 16826 1700 50  0000 C CNN
-F 1 "Ferrite_Bead" V 16917 1700 50  0000 C CNN
-F 2 "" V 17030 1700 50  0001 C CNN
-F 3 "~" H 17100 1700 50  0001 C CNN
-	1    17100 1700
-	0    1    1    0   
-$EndComp
-$Comp
 L Device:R R?
 U 1 1 62356BAE
 P 2600 1900
@@ -1060,4 +1049,548 @@ Text Label 9150 10600 0    50   ~ 0
 PCIe_REFCLK_P
 Text Label 9150 10700 0    50   ~ 0
 PCIe_REFCLK_N
+$Comp
+L Device:C_Small C?
+U 1 1 617DE4B2
+P 1850 5300
+AR Path="/614C64CE/617DE4B2" Ref="C?"  Part="1" 
+AR Path="/6145B860/617DE4B2" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/617DE4B2" Ref="C?"  Part="1" 
+F 0 "C?" H 1942 5346 50  0000 L CNN
+F 1 "0.1uF" H 1942 5255 50  0000 L CNN
+F 2 "" H 1850 5300 50  0001 C CNN
+F 3 "~" H 1850 5300 50  0001 C CNN
+F 4 "10V" H 2000 5150 50  0000 C CNN "Voltage rating"
+	1    1850 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 617E912E
+P 2250 5300
+AR Path="/614C64CE/617E912E" Ref="C?"  Part="1" 
+AR Path="/6145B860/617E912E" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/617E912E" Ref="C?"  Part="1" 
+F 0 "C?" H 2342 5346 50  0000 L CNN
+F 1 "0.1uF" H 2342 5255 50  0000 L CNN
+F 2 "" H 2250 5300 50  0001 C CNN
+F 3 "~" H 2250 5300 50  0001 C CNN
+F 4 "10V" H 2400 5150 50  0000 C CNN "Voltage rating"
+	1    2250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 617F290B
+P 2650 5300
+AR Path="/614C64CE/617F290B" Ref="C?"  Part="1" 
+AR Path="/6145B860/617F290B" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/617F290B" Ref="C?"  Part="1" 
+F 0 "C?" H 2742 5346 50  0000 L CNN
+F 1 "0.1uF" H 2742 5255 50  0000 L CNN
+F 2 "" H 2650 5300 50  0001 C CNN
+F 3 "~" H 2650 5300 50  0001 C CNN
+F 4 "10V" H 2800 5150 50  0000 C CNN "Voltage rating"
+	1    2650 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 617FBDB2
+P 3050 5300
+AR Path="/614C64CE/617FBDB2" Ref="C?"  Part="1" 
+AR Path="/6145B860/617FBDB2" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/617FBDB2" Ref="C?"  Part="1" 
+F 0 "C?" H 3142 5346 50  0000 L CNN
+F 1 "0.1uF" H 3142 5255 50  0000 L CNN
+F 2 "" H 3050 5300 50  0001 C CNN
+F 3 "~" H 3050 5300 50  0001 C CNN
+F 4 "10V" H 3200 5150 50  0000 C CNN "Voltage rating"
+	1    3050 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 618054D5
+P 3450 5300
+AR Path="/614C64CE/618054D5" Ref="C?"  Part="1" 
+AR Path="/6145B860/618054D5" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/618054D5" Ref="C?"  Part="1" 
+F 0 "C?" H 3542 5346 50  0000 L CNN
+F 1 "0.1uF" H 3542 5255 50  0000 L CNN
+F 2 "" H 3450 5300 50  0001 C CNN
+F 3 "~" H 3450 5300 50  0001 C CNN
+F 4 "10V" H 3600 5150 50  0000 C CNN "Voltage rating"
+	1    3450 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6181341D
+P 3850 5300
+AR Path="/614C64CE/6181341D" Ref="C?"  Part="1" 
+AR Path="/6145B860/6181341D" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/6181341D" Ref="C?"  Part="1" 
+F 0 "C?" H 3942 5346 50  0000 L CNN
+F 1 "0.1uF" H 3942 5255 50  0000 L CNN
+F 2 "" H 3850 5300 50  0001 C CNN
+F 3 "~" H 3850 5300 50  0001 C CNN
+F 4 "10V" H 4000 5150 50  0000 C CNN "Voltage rating"
+	1    3850 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61813424
+P 4250 5300
+AR Path="/614C64CE/61813424" Ref="C?"  Part="1" 
+AR Path="/6145B860/61813424" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61813424" Ref="C?"  Part="1" 
+F 0 "C?" H 4342 5346 50  0000 L CNN
+F 1 "0.1uF" H 4342 5255 50  0000 L CNN
+F 2 "" H 4250 5300 50  0001 C CNN
+F 3 "~" H 4250 5300 50  0001 C CNN
+F 4 "10V" H 4400 5150 50  0000 C CNN "Voltage rating"
+	1    4250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6181342B
+P 4650 5300
+AR Path="/614C64CE/6181342B" Ref="C?"  Part="1" 
+AR Path="/6145B860/6181342B" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/6181342B" Ref="C?"  Part="1" 
+F 0 "C?" H 4742 5346 50  0000 L CNN
+F 1 "0.1uF" H 4742 5255 50  0000 L CNN
+F 2 "" H 4650 5300 50  0001 C CNN
+F 3 "~" H 4650 5300 50  0001 C CNN
+F 4 "10V" H 4800 5150 50  0000 C CNN "Voltage rating"
+	1    4650 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61813432
+P 5050 5300
+AR Path="/614C64CE/61813432" Ref="C?"  Part="1" 
+AR Path="/6145B860/61813432" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61813432" Ref="C?"  Part="1" 
+F 0 "C?" H 5142 5346 50  0000 L CNN
+F 1 "0.1uF" H 5142 5255 50  0000 L CNN
+F 2 "" H 5050 5300 50  0001 C CNN
+F 3 "~" H 5050 5300 50  0001 C CNN
+F 4 "10V" H 5200 5150 50  0000 C CNN "Voltage rating"
+	1    5050 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61813439
+P 5450 5300
+AR Path="/614C64CE/61813439" Ref="C?"  Part="1" 
+AR Path="/6145B860/61813439" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61813439" Ref="C?"  Part="1" 
+F 0 "C?" H 5542 5346 50  0000 L CNN
+F 1 "0.1uF" H 5542 5255 50  0000 L CNN
+F 2 "" H 5450 5300 50  0001 C CNN
+F 3 "~" H 5450 5300 50  0001 C CNN
+F 4 "10V" H 5600 5150 50  0000 C CNN "Voltage rating"
+	1    5450 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6183B5BF
+P 5450 5650
+AR Path="/6145B860/6183B5BF" Ref="#PWR?"  Part="1" 
+AR Path="/614B9C8F/6183B5BF" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 5450 5400 50  0001 C CNN
+F 1 "GND" H 5455 5477 50  0000 C CNN
+F 2 "" H 5450 5650 50  0001 C CNN
+F 3 "" H 5450 5650 50  0001 C CNN
+	1    5450 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 5650 5450 5550
+Wire Wire Line
+	5050 5400 5050 5550
+Wire Wire Line
+	5050 5550 5450 5550
+Connection ~ 5450 5550
+Wire Wire Line
+	5450 5550 5450 5400
+Wire Wire Line
+	4650 5400 4650 5550
+Wire Wire Line
+	4650 5550 5050 5550
+Connection ~ 5050 5550
+Wire Wire Line
+	4250 5400 4250 5550
+Wire Wire Line
+	4250 5550 4650 5550
+Connection ~ 4650 5550
+Wire Wire Line
+	3850 5400 3850 5550
+Wire Wire Line
+	3850 5550 4250 5550
+Connection ~ 4250 5550
+Wire Wire Line
+	3450 5400 3450 5550
+Wire Wire Line
+	3450 5550 3850 5550
+Connection ~ 3850 5550
+Wire Wire Line
+	3050 5400 3050 5550
+Wire Wire Line
+	3050 5550 3450 5550
+Connection ~ 3450 5550
+Wire Wire Line
+	2650 5400 2650 5550
+Wire Wire Line
+	2650 5550 3050 5550
+Connection ~ 3050 5550
+Wire Wire Line
+	2250 5400 2250 5550
+Wire Wire Line
+	2250 5550 2650 5550
+Connection ~ 2650 5550
+Wire Wire Line
+	1850 5400 1850 5550
+Wire Wire Line
+	1850 5550 2250 5550
+Connection ~ 2250 5550
+$Comp
+L power_custom:VDD_PCIEVP #PWR?
+U 1 1 618AF710
+P 1850 4900
+F 0 "#PWR?" H 1850 4750 50  0001 C CNN
+F 1 "VDD_PCIEVP" H 1865 5073 50  0000 C CNN
+F 2 "" H 1850 4900 50  0001 C CNN
+F 3 "" H 1850 4900 50  0001 C CNN
+	1    1850 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 5200 1850 5100
+Wire Wire Line
+	2250 5200 2250 5100
+Wire Wire Line
+	2250 5100 1850 5100
+Connection ~ 1850 5100
+Wire Wire Line
+	1850 5100 1850 4900
+Wire Wire Line
+	2650 5200 2650 5100
+Wire Wire Line
+	2650 5100 2250 5100
+Connection ~ 2250 5100
+Wire Wire Line
+	3050 5200 3050 5100
+Wire Wire Line
+	3050 5100 2650 5100
+Connection ~ 2650 5100
+Wire Wire Line
+	3450 5200 3450 5100
+Wire Wire Line
+	3450 5100 3050 5100
+Connection ~ 3050 5100
+Wire Wire Line
+	3850 5200 3850 5100
+Wire Wire Line
+	3850 5100 3450 5100
+Connection ~ 3450 5100
+Wire Wire Line
+	4250 5200 4250 5100
+Wire Wire Line
+	4250 5100 3850 5100
+Connection ~ 3850 5100
+Wire Wire Line
+	4650 5200 4650 5100
+Wire Wire Line
+	4650 5100 4250 5100
+Connection ~ 4250 5100
+Wire Wire Line
+	5050 5200 5050 5100
+Wire Wire Line
+	5050 5100 4650 5100
+Connection ~ 4650 5100
+Wire Wire Line
+	5450 5200 5450 5100
+Wire Wire Line
+	5450 5100 5050 5100
+Connection ~ 5050 5100
+$Comp
+L Device:C_Small C?
+U 1 1 61958A19
+P 1850 6500
+AR Path="/614C64CE/61958A19" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A19" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A19" Ref="C?"  Part="1" 
+F 0 "C?" H 1942 6546 50  0000 L CNN
+F 1 "0.1uF" H 1942 6455 50  0000 L CNN
+F 2 "" H 1850 6500 50  0001 C CNN
+F 3 "~" H 1850 6500 50  0001 C CNN
+F 4 "10V" H 2000 6350 50  0000 C CNN "Voltage rating"
+	1    1850 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A20
+P 2250 6500
+AR Path="/614C64CE/61958A20" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A20" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A20" Ref="C?"  Part="1" 
+F 0 "C?" H 2342 6546 50  0000 L CNN
+F 1 "0.1uF" H 2342 6455 50  0000 L CNN
+F 2 "" H 2250 6500 50  0001 C CNN
+F 3 "~" H 2250 6500 50  0001 C CNN
+F 4 "10V" H 2400 6350 50  0000 C CNN "Voltage rating"
+	1    2250 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A27
+P 2650 6500
+AR Path="/614C64CE/61958A27" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A27" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A27" Ref="C?"  Part="1" 
+F 0 "C?" H 2742 6546 50  0000 L CNN
+F 1 "0.1uF" H 2742 6455 50  0000 L CNN
+F 2 "" H 2650 6500 50  0001 C CNN
+F 3 "~" H 2650 6500 50  0001 C CNN
+F 4 "10V" H 2800 6350 50  0000 C CNN "Voltage rating"
+	1    2650 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A2E
+P 3050 6500
+AR Path="/614C64CE/61958A2E" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A2E" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A2E" Ref="C?"  Part="1" 
+F 0 "C?" H 3142 6546 50  0000 L CNN
+F 1 "0.1uF" H 3142 6455 50  0000 L CNN
+F 2 "" H 3050 6500 50  0001 C CNN
+F 3 "~" H 3050 6500 50  0001 C CNN
+F 4 "10V" H 3200 6350 50  0000 C CNN "Voltage rating"
+	1    3050 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A35
+P 3450 6500
+AR Path="/614C64CE/61958A35" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A35" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A35" Ref="C?"  Part="1" 
+F 0 "C?" H 3542 6546 50  0000 L CNN
+F 1 "0.1uF" H 3542 6455 50  0000 L CNN
+F 2 "" H 3450 6500 50  0001 C CNN
+F 3 "~" H 3450 6500 50  0001 C CNN
+F 4 "10V" H 3600 6350 50  0000 C CNN "Voltage rating"
+	1    3450 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A3C
+P 3850 6500
+AR Path="/614C64CE/61958A3C" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A3C" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A3C" Ref="C?"  Part="1" 
+F 0 "C?" H 3942 6546 50  0000 L CNN
+F 1 "0.1uF" H 3942 6455 50  0000 L CNN
+F 2 "" H 3850 6500 50  0001 C CNN
+F 3 "~" H 3850 6500 50  0001 C CNN
+F 4 "10V" H 4000 6350 50  0000 C CNN "Voltage rating"
+	1    3850 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A43
+P 4250 6500
+AR Path="/614C64CE/61958A43" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A43" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A43" Ref="C?"  Part="1" 
+F 0 "C?" H 4342 6546 50  0000 L CNN
+F 1 "0.1uF" H 4342 6455 50  0000 L CNN
+F 2 "" H 4250 6500 50  0001 C CNN
+F 3 "~" H 4250 6500 50  0001 C CNN
+F 4 "10V" H 4400 6350 50  0000 C CNN "Voltage rating"
+	1    4250 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A4A
+P 4650 6500
+AR Path="/614C64CE/61958A4A" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A4A" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A4A" Ref="C?"  Part="1" 
+F 0 "C?" H 4742 6546 50  0000 L CNN
+F 1 "0.1uF" H 4742 6455 50  0000 L CNN
+F 2 "" H 4650 6500 50  0001 C CNN
+F 3 "~" H 4650 6500 50  0001 C CNN
+F 4 "10V" H 4800 6350 50  0000 C CNN "Voltage rating"
+	1    4650 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A51
+P 5050 6500
+AR Path="/614C64CE/61958A51" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A51" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A51" Ref="C?"  Part="1" 
+F 0 "C?" H 5142 6546 50  0000 L CNN
+F 1 "0.1uF" H 5142 6455 50  0000 L CNN
+F 2 "" H 5050 6500 50  0001 C CNN
+F 3 "~" H 5050 6500 50  0001 C CNN
+F 4 "10V" H 5200 6350 50  0000 C CNN "Voltage rating"
+	1    5050 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 61958A58
+P 5450 6500
+AR Path="/614C64CE/61958A58" Ref="C?"  Part="1" 
+AR Path="/6145B860/61958A58" Ref="C?"  Part="1" 
+AR Path="/614B9C8F/61958A58" Ref="C?"  Part="1" 
+F 0 "C?" H 5542 6546 50  0000 L CNN
+F 1 "0.1uF" H 5542 6455 50  0000 L CNN
+F 2 "" H 5450 6500 50  0001 C CNN
+F 3 "~" H 5450 6500 50  0001 C CNN
+F 4 "10V" H 5600 6350 50  0000 C CNN "Voltage rating"
+	1    5450 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61958A5E
+P 5450 6850
+AR Path="/6145B860/61958A5E" Ref="#PWR?"  Part="1" 
+AR Path="/614B9C8F/61958A5E" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 5450 6600 50  0001 C CNN
+F 1 "GND" H 5455 6677 50  0000 C CNN
+F 2 "" H 5450 6850 50  0001 C CNN
+F 3 "" H 5450 6850 50  0001 C CNN
+	1    5450 6850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 6850 5450 6750
+Wire Wire Line
+	5050 6600 5050 6750
+Wire Wire Line
+	5050 6750 5450 6750
+Connection ~ 5450 6750
+Wire Wire Line
+	5450 6750 5450 6600
+Wire Wire Line
+	4650 6600 4650 6750
+Wire Wire Line
+	4650 6750 5050 6750
+Connection ~ 5050 6750
+Wire Wire Line
+	4250 6600 4250 6750
+Wire Wire Line
+	4250 6750 4650 6750
+Connection ~ 4650 6750
+Wire Wire Line
+	3850 6600 3850 6750
+Wire Wire Line
+	3850 6750 4250 6750
+Connection ~ 4250 6750
+Wire Wire Line
+	3450 6600 3450 6750
+Wire Wire Line
+	3450 6750 3850 6750
+Connection ~ 3850 6750
+Wire Wire Line
+	3050 6600 3050 6750
+Wire Wire Line
+	3050 6750 3450 6750
+Connection ~ 3450 6750
+Wire Wire Line
+	2650 6600 2650 6750
+Wire Wire Line
+	2650 6750 3050 6750
+Connection ~ 3050 6750
+Wire Wire Line
+	2250 6600 2250 6750
+Wire Wire Line
+	2250 6750 2650 6750
+Connection ~ 2650 6750
+Wire Wire Line
+	1850 6600 1850 6750
+Wire Wire Line
+	1850 6750 2250 6750
+Connection ~ 2250 6750
+Wire Wire Line
+	1850 6400 1850 6300
+Wire Wire Line
+	2250 6400 2250 6300
+Wire Wire Line
+	2250 6300 1850 6300
+Connection ~ 1850 6300
+Wire Wire Line
+	1850 6300 1850 6100
+Wire Wire Line
+	2650 6400 2650 6300
+Wire Wire Line
+	2650 6300 2250 6300
+Connection ~ 2250 6300
+Wire Wire Line
+	3050 6400 3050 6300
+Wire Wire Line
+	3050 6300 2650 6300
+Connection ~ 2650 6300
+Wire Wire Line
+	3450 6400 3450 6300
+Wire Wire Line
+	3450 6300 3050 6300
+Connection ~ 3050 6300
+Wire Wire Line
+	3850 6400 3850 6300
+Wire Wire Line
+	3850 6300 3450 6300
+Connection ~ 3450 6300
+Wire Wire Line
+	4250 6400 4250 6300
+Wire Wire Line
+	4250 6300 3850 6300
+Connection ~ 3850 6300
+Wire Wire Line
+	4650 6400 4650 6300
+Wire Wire Line
+	4650 6300 4250 6300
+Connection ~ 4250 6300
+Wire Wire Line
+	5050 6400 5050 6300
+Wire Wire Line
+	5050 6300 4650 6300
+Connection ~ 4650 6300
+Wire Wire Line
+	5450 6400 5450 6300
+Wire Wire Line
+	5450 6300 5050 6300
+Connection ~ 5050 6300
+$Comp
+L power_custom:VDD_PCIEVPH #PWR?
+U 1 1 61980EC9
+P 1850 6100
+F 0 "#PWR?" H 1850 5950 50  0001 C CNN
+F 1 "VDD_PCIEVPH" H 1865 6273 50  0000 C CNN
+F 2 "" H 1850 6100 50  0001 C CNN
+F 3 "" H 1850 6100 50  0001 C CNN
+	1    1850 6100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
