@@ -1,0 +1,252 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "dc9ed56b-281a-4680-b6d9-f498893affd5")
+	(paper "A2")
+	(lib_symbols)
+	(text "HiFive Unmatched KiCad Port"
+		(exclude_from_sim no)
+		(at 199.39 30.48 0)
+		(effects
+			(font
+				(size 8.9916 8.9916)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8b0d8ac-84d4-4288-ab18-78e1db8f5dd8")
+	)
+	(sheet
+		(at 614.68 49.53)
+		(size 44.45 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061422503")
+		(property "Sheetname" "fu740_chiplink_gmii"
+			(at 614.68 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fu740_chiplink_gmii.kicad_sch"
+			(at 614.68 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hifive_unmatched_kicad_port"
+				(path "/dc9ed56b-281a-4680-b6d9-f498893affd5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 614.68 72.39)
+		(size 44.45 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000061454c87")
+		(property "Sheetname" "fu740_ddr4"
+			(at 614.68 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fu740_ddr4.kicad_sch"
+			(at 614.68 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hifive_unmatched_kicad_port"
+				(path "/dc9ed56b-281a-4680-b6d9-f498893affd5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 614.68 160.02)
+		(size 44.45 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00006145b860")
+		(property "Sheetname" "ddr4x8_32bit"
+			(at 614.68 159.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ddr4x8_32bit_.kicad_sch"
+			(at 614.68 177.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hifive_unmatched_kicad_port"
+				(path "/dc9ed56b-281a-4680-b6d9-f498893affd5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 614.68 93.98)
+		(size 44.45 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00006149da01")
+		(property "Sheetname" "fu740_misc"
+			(at 614.68 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fu740_misc.kicad_sch"
+			(at 614.68 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hifive_unmatched_kicad_port"
+				(path "/dc9ed56b-281a-4680-b6d9-f498893affd5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 614.68 115.57)
+		(size 44.45 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000614b9c8f")
+		(property "Sheetname" "fu740_pcie_gen3"
+			(at 614.68 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fu740_pcie_gen3.kicad_sch"
+			(at 614.68 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hifive_unmatched_kicad_port"
+				(path "/dc9ed56b-281a-4680-b6d9-f498893affd5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 614.68 137.16)
+		(size 44.45 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-0000614c64ce")
+		(property "Sheetname" "fu740_power"
+			(at 614.68 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fu740_power.kicad_sch"
+			(at 614.68 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hifive_unmatched_kicad_port"
+				(path "/dc9ed56b-281a-4680-b6d9-f498893affd5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
